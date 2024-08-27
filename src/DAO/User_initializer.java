@@ -17,7 +17,7 @@ public class User_initializer {
 //        userList.add(new User("U007","linda_martin", "Graphic designer passionate about typography and branding. Amateur photographer."));
 //        userList.add(new User("U008","chris_lee", "AI researcher focused on natural language processing. Music lover and guitar player."));
 //        userList.add(new User("U009","rachel_green", "Project manager with experience in agile methodologies. Loves organizing community events."));
-//        userList.add(new User("U010","matthew_white", "Cybersecurity analyst dedicated to protecting online privacy. Runner and marathon enthusiast."));
+//        userList.add(new User("U010","matthew_steph", "Cybersecurity analyst dedicated to protecting online privacy. Runner and marathon enthusiast."));
 
         return userList;
     }
